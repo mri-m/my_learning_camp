@@ -1,2 +1,3 @@
 # my_learning_camp
-Learning repos for data science
+Learning repository for data science
+My data science journey
